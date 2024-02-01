@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/souravrouth5/company-template/static/css/main.f855e6bc.css",
+    "main.js": "/souravrouth5/company-template/static/js/main.703032e3.js",
+    "index.html": "/souravrouth5/company-template/index.html",
+    "main.f855e6bc.css.map": "/souravrouth5/company-template/static/css/main.f855e6bc.css.map",
+    "main.703032e3.js.map": "/souravrouth5/company-template/static/js/main.703032e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.703032e3.js"
+  ]
+}
